@@ -1,1 +1,1 @@
-`go build`
+`go test`
